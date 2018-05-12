@@ -1,0 +1,38 @@
+_repo: Spenser-s-The-Faerie-Queene-Book-I_15272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spenser, Edmund
+    aliases:
+    - Spencer, Edmund
+    - Spenser, Edmond
+    - Immerito
+    birthdate: 1551
+    deathdate: 1599
+    gutenberg_agent_id: '2264'
+    url: http://www.gutenberg.org/2009/agents/2264
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Spenser
+  editor:
+    agent_name: Wauchope, George Armstrong
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '36752'
+    url: http://www.gutenberg.org/2009/agents/36752
+description: ''
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Virtues -- Poetry'
+- !lcsh 'Knights and knighthood -- Poetry'
+title: Spenser's The Faerie Queene, Book I
+url: http://www.gutenberg.org/ebooks/15272
