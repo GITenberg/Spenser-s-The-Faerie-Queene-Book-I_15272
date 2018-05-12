@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36752'
     url: http://www.gutenberg.org/2009/agents/36752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15272#Spenser-s-The-Faerie-Queene-Book-I
 gutenberg_issued: '2005-03-07'
 gutenberg_type: Text
 identifiers:
